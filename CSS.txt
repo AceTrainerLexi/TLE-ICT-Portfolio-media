@@ -1,0 +1,9 @@
+<html>
+<head> <title> CSS Integration (w/Dandy and Astro for the funsies) </title> </head>
+<body>
+
+<h3 style="font-family:Arial Rounded MT Bold; color:#e62929;"> Dandy's text looks like this! </h3>
+<h3 style="font-family:Aptos; color:#3329e6;"> Astro's text looks like this! </h3>
+
+</body>
+</html>

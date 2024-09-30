@@ -1,0 +1,10 @@
+<html>
+<head> <title> XHTML EXAMPLES </head> </title>
+<body>
+
+<h3 align="center"> XHTML </h3>
+
+
+
+</body>
+</html>
